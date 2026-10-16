@@ -1,5 +1,5 @@
 # Live2D Recovery
-
+本工具部分代码由ChatGPT生成
 将 Live2D 运行时模型资源恢复为可编辑工程的 Windows 工具。
 选择 `.model3.json`，程序读取对应的 MOC3、贴图和附属配置，生成 `.cmo3` 文件。
 
